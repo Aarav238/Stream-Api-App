@@ -6,3 +6,7 @@ Hello,World!
 ```
 Hello, World 2
 ```
+```
+cd log
+```
+
